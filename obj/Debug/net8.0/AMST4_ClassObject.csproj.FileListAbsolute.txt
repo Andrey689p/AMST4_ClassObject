@@ -1,0 +1,14 @@
+D:\Jeff\OOP\AMST4_ClassObject\bin\Debug\net8.0\AMST4_ClassObject.exe
+D:\Jeff\OOP\AMST4_ClassObject\bin\Debug\net8.0\AMST4_ClassObject.deps.json
+D:\Jeff\OOP\AMST4_ClassObject\bin\Debug\net8.0\AMST4_ClassObject.runtimeconfig.json
+D:\Jeff\OOP\AMST4_ClassObject\bin\Debug\net8.0\AMST4_ClassObject.dll
+D:\Jeff\OOP\AMST4_ClassObject\bin\Debug\net8.0\AMST4_ClassObject.pdb
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\AMST4_ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\AMST4_ClassObject.AssemblyInfoInputs.cache
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\AMST4_ClassObject.AssemblyInfo.cs
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\AMST4_ClassObject.csproj.CoreCompileInputs.cache
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\AMST4_ClassObject.dll
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\refint\AMST4_ClassObject.dll
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\AMST4_ClassObject.pdb
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\AMST4_ClassObject.genruntimeconfig.cache
+D:\Jeff\OOP\AMST4_ClassObject\obj\Debug\net8.0\ref\AMST4_ClassObject.dll
